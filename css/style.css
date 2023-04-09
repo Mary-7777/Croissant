@@ -1,7 +1,8 @@
 body {
-  background-color: palevioletred;
+  background-color: plum;
 }
 
 h1 {
-  color: aqua;
+  color: rgb(24, 227, 227);
+  text-align: left;
 }
